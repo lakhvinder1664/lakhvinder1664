@@ -29,8 +29,9 @@ Currently focused on improving JavaScript skills and transforming static designs
 
 ## 🔥  My Work
 
+### 🏡 [Villa-Template](https://github.com/lakhvinder1664/Villa-Template)
+
 ### 🍽️ [XSportSoft](https://github.com/lakhvinder1664/xsportsoft-work2)
-Premium restaurant template with dynamic menus and event booking
 
 ---
 
