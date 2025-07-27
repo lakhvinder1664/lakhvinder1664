@@ -35,7 +35,7 @@ Currently focused on improving JavaScript skills and transforming static designs
 
 ### 🏡 [Villa-Template](https://github.com/lakhvinder1664/Villa-Template)
 
-### 🍽️ [XSportSoft](https://github.com/lakhvinder1664/xsportsoft-work2)
+### 🍽️ [Restorent-Template](https://github.com/lakhvinder1664/xsportsoft-work2)
 
 ---
 
