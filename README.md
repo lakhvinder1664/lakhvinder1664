@@ -2,7 +2,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2pyemNid2VkMzIwNXV6cXk2OHdhOWlpZmtxcW5ubWVrcm5tdzY1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Tgvn82bqJT36lkVqDZ/giphy.gif" alt="Coding Fun" width="400"/>
 </p>
 
-![My Animation](Assets/Developer.gif)
+
 
 
 
@@ -21,7 +21,7 @@
 
 ---
 
-## 🧔🏻‍♂️ About Me
+## ![My Animation](Assets/Developer.gif) About Me
 
 I’m a beginner front-end developer with hands-on training in HTML, CSS, and JavaScript, and over a year of experience designing user-centric interfaces in Figma. I also bring 6+ months of off-page SEO experience, giving me a well-rounded understanding of how design and visibility work together on the web.
 
