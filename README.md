@@ -1,6 +1,10 @@
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2pyemNid2VkMzIwNXV6cXk2OHdhOWlpZmtxcW5ubWVrcm5tdzY1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Tgvn82bqJT36lkVqDZ/giphy.gif" alt="Coding Fun" width="400"/>
 </p>
+## 🎬 Lottie Animation Preview
+
+![My Animation](Assets/Developer.gif)
+
 
 
 📍 Harayana, India  
