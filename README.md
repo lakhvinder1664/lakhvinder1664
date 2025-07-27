@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lakhvinder Singh
+# 👨‍💻 Hi, I'm Lakhvinder Singh
 
 **Front-end Developer**
 
