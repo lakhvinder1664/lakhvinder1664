@@ -1,6 +1,5 @@
 # 👨🏻‍💻 Hi, I'm Lakhvinder Singh
 
-**Front-end Developer**
 
 📍 Harayana, India  
 📧 [lakhvinder.professional@gmail.com] 
