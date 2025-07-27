@@ -41,8 +41,7 @@ Currently focused on improving JavaScript skills and transforming static designs
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-anuraghazra.vercel.app/api?username=lakhvinder1664&show_icons=true&theme=default)
-
+![Lakhvinder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakhvinder1664&show_icons=true&theme=default&hide_border=true)
 
 ---
 
