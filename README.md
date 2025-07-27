@@ -1,57 +1,37 @@
-## Hi there 👋
-# 🔥 Lakhvinder Singh 
-**Practical Coder | Problem Solver | Continuous Learner**
+# 👋 Hi, I'm Lakhvinder Singh
 
-📍 **India** | 📧 **Email:** [Add professional email if comfortable]  
+**Front-end Developer**
 
----
-
-## 🛠️ **Active Projects**
-
-### 1. [SaaS Store Console](https://github.com/lakhvinder1664/saas-store-console)
-🚀 **Python-based CLI tool** for SaaS management  
-✔️ **Features:** Subscription tracking | Payment integration  
-🔧 **Tech:** Python • SQLite • Click  
-
-### 2. [Project](https://github.com/lakhvinder1664/project)
-🧪 **Experimental codebase** for testing new ideas  
-🔭 **Exploring:** Python utilities • Automation scripts  
-
-### 3. [lakhvinder1664](https://github.com/lakhvinder1664/lakhvinder1664)
-📌 **Profile README** (You're here!)  
-🛠️ **Status:** Under construction 🚧  
+📍 Harayana, India  
+📧 [Your Professional Email]  
+🔗 [Portfolio Coming Soon]  
 
 ---
 
-## 🌱 **Current Focus**
-• Enhancing **SaaS Console** with new modules  
-• Learning **cloud deployment** (AWS/Docker)  
-• Contributing to **open-source Python projects**  
+## 🛠️ Tech Stack
+
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/HTML5-Expert-E34F26?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-Advanced-1572B6?logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?logo=bootstrap)
+
 
 ---
 
-## 📊 **GitHub Pulse**
-![Your Coding Activity](https://github-readme-stats.vercel.app/api?username=lakhvinder1664&show_icons=true&theme=graywhite&hide_title=true)
+## 🔥 Featured Projects
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakhvinder1664&layout=compact&theme=graywhite)
+### 🍽️ [XSportSoft](https://github.com/lakhvinder1664/xsportsoft-work2)
+Premium restaurant template with dynamic menus and event booking
 
 ---
 
-## 💬 **Let's Collaborate!**
-🔗 **GitHub:** [lakhvinder1664](https://github.com/lakhvinder1664)  
-📧 **Email:** [Your contact email]  
-<!--
-**lakhvinder1664/lakhvinder1664** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
 
-Here are some ideas to get you started:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakhvinder1664&show_icons=true&theme=default)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](your-link)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](your-link)
