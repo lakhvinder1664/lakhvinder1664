@@ -1,4 +1,4 @@
-# 👨‍💻 Hi, I'm Lakhvinder Singh
+# 👨🏻‍💻 Hi, I'm Lakhvinder Singh
 
 **Front-end Developer**
 
@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 About Me
+## 🧔🏻‍♂️ About Me
 
 I’m a beginner front-end developer with hands-on training in HTML, CSS, and JavaScript, and over a year of experience designing user-centric interfaces in Figma. I also bring 6+ months of off-page SEO experience, giving me a well-rounded understanding of how design and visibility work together on the web.
 
