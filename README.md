@@ -33,5 +33,5 @@ Premium restaurant template with dynamic menus and event booking
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([your-link](https://www.linkedin.com/in/lakhvinder-singh-6055362b8/))
-[![TInstagram](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)]([your-link](https://www.instagram.com/lakhvinder012/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://www.linkedin.com/in/lakhvinder-singh-6055362b8/])
+[![TInstagram](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)]([https://www.instagram.com/lakhvinder012/](https://www.instagram.com/lakhvinder012/))
