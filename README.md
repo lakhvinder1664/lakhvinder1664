@@ -3,10 +3,6 @@
 </p>
 
 
-
-# 👨🏻‍💻 Hi, I'm Lakhvinder Singh
-
-
 📍 Harayana, India  
 📧 [lakhvinder.professional@gmail.com] 
 🔗 [Portfolio Coming Soon]  
