@@ -45,8 +45,3 @@ Currently focused on improving JavaScript skills and transforming static designs
 
 ---
 
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lakhvinder-singh-6055362b8/)  
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram)](https://www.instagram.com/lakhvinder012/)
-
