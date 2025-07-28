@@ -7,7 +7,12 @@
 
 
 📍 Harayana, India  
-📧 [lakhvinder.professional@gmail.com] 
+<p>
+  <a href="mailto:lakhvinder1664@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-lakhvinder1664@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</p>
+
 🔗 [Portfolio Coming Soon]  
 
 ---
