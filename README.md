@@ -23,11 +23,11 @@
 
 ## 🧔🏻‍♂️ About Me
 
-I’m a beginner front-end developer with hands-on training in HTML, CSS, and JavaScript, and over a year of experience designing user-centric interfaces in Figma. I also bring 6+ months of off-page SEO experience, giving me a well-rounded understanding of how design and visibility work together on the web.
+👋 Hi, I'm Lakhvinder Singh – a beginner front-end developer with skills in HTML, CSS, JavaScript, and Figma. I also have 6+ months of off-page SEO experience, giving me a strong blend of design and web visibility.
 
-I'm always eager to learn, grow, and stay ahead of tech trends. Outside of coding, you'll find me playing volleyball, gaming (both PC and mobile), or exploring new foods and cultures.
+🎯 Currently sharpening my JavaScript and turning static designs into interactive websites.
 
-Currently focused on improving JavaScript skills and transforming static designs into fully interactive websites.
+🎮 Outside of coding, I enjoy volleyball, gaming, and discovering new foods!
 
 ---
 
