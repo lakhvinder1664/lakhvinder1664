@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2pyemNid2VkMzIwNXV6cXk2OHdhOWlpZmtxcW5ubWVrcm5tdzY1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Tgvn82bqJT36lkVqDZ/giphy.gif" alt="Coding Fun" width="400"/>
-</p>
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="1000">
 
 
 
