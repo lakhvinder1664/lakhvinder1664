@@ -41,7 +41,9 @@
 
 ## 📊 GitHub Stats
 
-![Lakhvinder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakhvinder1664)
+![Lakhvinder's GitHub Stats](https://readme-stats-five-rouge.vercel.app/api?username=lakhvinder1664&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=lakhvinder1664&theme=tokyonight&hide_border=false)
+![Top Languages](https://readme-stats-five-rouge.vercel.app/api/top-langs/?username=lakhvinder1664&layout=compact&theme=tokyonight)
 
 ---
 
