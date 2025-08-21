@@ -41,9 +41,9 @@
 
 ## 📊 GitHub Stats
 
-![Lakhvinder's GitHub Stats](https://readme-stats-five-rouge.vercel.app/api?username=lakhvinder1664&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=lakhvinder1664&theme=tokyonight&hide_border=false)  
-![Top Languages](https://readme-stats-five-rouge.vercel.app/api/top-langs/?username=lakhvinder1664&layout=compact&theme=github_dark)
+![Lakhvinder's GitHub Stats](https://readme-stats-five-rouge.vercel.app/api?username=lakhvinder1664&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&cache_seconds=1800)
+![GitHub Streak](https://streak-stats.demolab.com?user=lakhvinder1664&theme=tokyonight&hide_border=false&cache_seconds=1800)
+![Top Languages](https://readme-stats-five-rouge.vercel.app/api/top-langs/?username=lakhvinder1664&layout=compact&theme=github_dark&cache_seconds=1800)
 
 ---
 
