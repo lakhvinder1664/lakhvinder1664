@@ -12,7 +12,7 @@
   </a>
 </p>
 
-🔗 [Portfolio Coming Soon]  
+🔗 [https://digital-portfolio1.netlify.app/]  
 
 ---
 
