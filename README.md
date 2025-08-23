@@ -12,7 +12,7 @@
   </a>
 </p>
 
-## CHECK MY PORTFOLIO 
+## 🍀 MY PORTFOLIO 🍀
 🔗 [https://digital-portfolio1.netlify.app/]  
 
 ---
