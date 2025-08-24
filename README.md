@@ -44,7 +44,6 @@
 
 ## 📊 GitHub Stats
 
-![Last Commit](https://img.shields.io/github/last-commit/lakhvinder1664/lakhvinder1664-1.svg)
 
 
 
