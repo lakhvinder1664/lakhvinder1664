@@ -13,7 +13,7 @@
 </p>
 
 ## 🍀 MY PORTFOLIO 🍀
-🔗 [https://digital-portfolio1.netlify.app/]  
+🔗 [Portfolio](https://digital-portfolio1.netlify.app/)
 
 ---
 
