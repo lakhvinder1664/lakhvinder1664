@@ -30,7 +30,7 @@
 
 👋 Hi, I'm front-end developer with skills in Figma, HTML, CSS, Bootstrap. I also have 6+ months of off-page SEO experience.
 
-🎮 Outside of coding, I enjoy volleyball, gaming, and love eating foods!
+🎮 Outside of coding, I enjoy volleyball, gaming, reading Manga and love eating foods!
 
 ---
 
