@@ -44,6 +44,8 @@
 
 ## 📊 GitHub Stats
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lakhvinder1664&theme=react-dark)
+![](https://komarev.com/ghpvc/?username=lakhvinder1664&style=for-the-badge&color=blue)
 
 <!-- GitHub Stats -->
 ![Lakhvinder's GitHub Stats](https://readme-stats-five-rouge.vercel.app/api?username=lakhvinder1664&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&cache_seconds=1800)
@@ -54,8 +56,6 @@
 <!-- Top Languages -->
 ![Top Languages](https://readme-stats-five-rouge.vercel.app/api/top-langs/?username=lakhvinder1664&layout=compact&theme=github_dark&cache_seconds=1800)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lakhvinder1664&theme=react-dark)
-![](https://komarev.com/ghpvc/?username=lakhvinder1664&style=for-the-badge&color=blue)
 
 ---
 
