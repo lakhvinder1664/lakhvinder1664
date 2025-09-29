@@ -47,7 +47,6 @@
 
 ## 📊 GitHub Stats
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lakhvinder1664&theme=react-dark)
 ![](https://komarev.com/ghpvc/?username=lakhvinder1664&style=for-the-badge&color=blue)
 
 <!-- GitHub Stats -->
