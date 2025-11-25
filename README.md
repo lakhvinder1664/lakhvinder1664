@@ -13,7 +13,7 @@
 </p>
 
 ## 🍀 MY PORTFOLIO 🍀
-🔗 [Portfolio](https://digital-portfolio1.netlify.app/)
+🔗 [Portfolio](https://lakhvinder-portfolio.vercel.app/)
 
 ---
 
